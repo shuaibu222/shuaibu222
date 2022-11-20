@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shuaibu Abdulkadir Hussain <br><br><br>I'm a front-end developer who likes challenges <br>🌍  I'm based in Nigeria <br>✉️  You can contact me at [shuaibuabdulkadir222@gmail.com](mailto:shuaibuabdulkadir222@gmail.com) <br>🧠  I'm learning Javascript <br>🤝  I'm open to collaborating on projects <br>⚡  I'm secretly final year student in computer science field.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shuaibu Abdulkadir Hussain <br><br><br>I'm a front-end developer who likes challenges <br>🌍  I'm based in Nigeria <br>✉️  You can contact me at [shuaibuabdulkadir222@gmail.com](mailto:shuaibuabdulkadir222@gmail.com) <br>🧠  I'm currently applying Javascript and frontend frameworks <br>🤝  I'm open to collaborating on projects.
 
 ### Skills
 
