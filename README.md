@@ -22,6 +22,8 @@ Hello, I'm Shuaibu Abdulkadir Hussain a frontend software engineer based in Nige
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="(https://sanity.io/)" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F17177659%3Fs%3D280%26v%3D4&f=1&nofb=1&ipt=f19d054ab20c648a073d3cb2b14dacad3990ae4011bd64f9a7dbc5d485d3b378&ipo=images" width="36" height="36" alt="sanity" /></a>
+<a href="(https://cypress.io/)" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F8908513%3Fs%3D400%26v%3D4&f=1&nofb=1&ipt=a81104d72c8c134f4de8a6d742a59f2d858e193959419ca824849760fe524099&ipo=images" width="36" height="36" alt="cypressjs" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 </p>
                     
