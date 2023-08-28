@@ -4,13 +4,13 @@ Hi 👋 My name is Shuaibu Abdulkadir
 Frontend Software Engineer
 --------------------------
 
-Hello, I'm Shuaibu Abdulkadir Hussain a frontend software engineer based in Nigeria with 2 + experience in the frontend development industry. Back In 2018, I'm a recent computer science diploma student and currently a final year bachelor's degree student from ISCG University, Benin Republic in computer science. With the knowledge I acquired from school throughout my course career, and online coding schools training I got from schools like freeCodeCamp gives me courage to fulfill my dream of becoming a frontend software engineer. I'm currently applying javascript libraries and frameworks, headless CMS(which is next generation in building web apps) and testing to fully occupy a frontend software engineer role. My main focus is rendering beautiful UI experience and translating designs into full web apps with accessibility and SEO in practice.
+Hello, I'm Shuaibu Abdulkadir Hussain a frontend software engineer based in Nigeria with 2 + experience in the frontend development industry. Back In 2018, I'm a recent computer science diploma student and currently a final year bachelor's degree student from ISCG University, Benin Republic in computer science. With the knowledge I acquired from school throughout my course career, and online coding schools training I got from schools like freeCodeCamp gives me courage to fulfill my dream of becoming a frontend software engineer. I'm currently applying Python and it's Frameworks, databases, and APIs. My main focus is delivering fully-functioned and beautiful UI web applications.
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [Next JS Portfolio](http://shuaibuportfolio.vercel.app/)
 *   ✉️  You can contact me at [shuaibuabdulkadir222@gmail.com](mailto:shuaibuabdulkadir222@gmail.com)
 *   🚀  I'm currently working on [DHTN school managementl dashboard](http://https://dhtndashboard.vercel.app/)
-*   🧠  I'm learning Cypress(testing library), Headless CMS and Computer Science in general
+*   🧠  I'm applying currently Python, Django, FastAPI, Django REST Framework, Postgres, Mongodb, Redis and much more.
 *   🤝  I'm open to collaborating on Web-based Applications using cutting-edge trending technologies
 
 ### Skills 
