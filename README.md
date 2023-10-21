@@ -4,7 +4,7 @@ Hi 👋 My name is Shuaibu Abdulkadir
 Junior Fullstack Engineer
 --------------------------
 
-Hello, I'm Shuaibu Abdulkadir Hussain a Junior fullstack engineer based in Nigeria with 2 + experience in the frontend development industry. Back In 2018, I'm a recent computer science diploma student and currently a final year bachelor's degree student from ISCG University, Benin Republic in computer science. With the knowledge I acquired from school throughout my course career, and online coding schools training I got from schools like freeCodeCamp gives me courage to fulfill my dream of becoming a frontend software engineer. I'm currently applying Python and it's Frameworks, databases, and APIs. My main focus is delivering fully-functioned and beautiful UI web applications.
+Hello, I'm Shuaibu Abdulkadir Hussain a Junior fullstack engineer with both frontend and backend skills.
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [shuaibuportfolio.vercel.app](http://shuaibuportfolio.vercel.app/)
