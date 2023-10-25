@@ -4,7 +4,7 @@ Hi 👋 My name is Shuaibu Abdulkadir
 Junior Backend Engineer
 --------------------------
 
-Hello, I'm Shuaibu Abdulkadir Hussain a Junior backend engineer with both frontend and backend skills.
+Hello, I'm Shuaibu Abdulkadir Hussain a Junior backend engineer with both frontend and backend experience.
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [shuaibuportfolio.vercel.app](http://shuaibuportfolio.vercel.app/)
