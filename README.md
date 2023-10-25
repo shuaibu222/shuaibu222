@@ -9,7 +9,6 @@ Hello, I'm Shuaibu Abdulkadir Hussain a Junior fullstack engineer with both fron
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [shuaibuportfolio.vercel.app](http://shuaibuportfolio.vercel.app/)
 *   ✉️  You can contact me at [shuaibuabdulkadir222@gmail.com](mailto:shuaibuabdulkadir222@gmail.com)
-*   🚀  I'm currently working on [DHTN school managementl dashboard](http://https://dhtndashboard.vercel.app/)
 *   🧠  I'm currently applying Golang, gRPC, RabbitMQ, Postgres, Mongodb and much more.
 
 ### Skills 
