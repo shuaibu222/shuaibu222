@@ -9,7 +9,7 @@ Hello, I'm Shuaibu Abdulkadir Hussain a software engineer with both frontend and
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [shuaibuportfolio.vercel.app](http://shuaibuportfolio.vercel.app/)
 *   ✉️  You can contact me at [shuaibuabdulkadir222@gmail.com](mailto:shuaibuabdulkadir222@gmail.com)
-*   🧠  I'm currently applying Golang, gRPC, RabbitMQ, Apache Pulsar, Postgres, Mongodb and much more.
+*   🧠  I'm currently applying Golang, gRPC, RabbitMQ, Apache Pulsar Apache Kafka, Postgres, Mongodb and much more.
 
 ### Skills 
 <p align="left">
