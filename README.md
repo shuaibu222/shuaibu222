@@ -9,8 +9,8 @@ A software engineer with both frontend and backend experience. I love exploring,
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [shuaibuportfolio.com](http://shuaibuportfolio.vercel.app)
 *   ✉️  You can contact me at [shuaibuabdulkadir222@gmail.com](mailto:shuaibuabdulkadir222@gmail.com)
-*   🚀  I'm currently working on [Safwahdev Coding Academy](http://safwahdev.vercel.app)
-*   🧠  I'm learning Core Java, Python, ML, DL, Spring Boot
+*   🚀  I'm currently working on [Safwahdev Coding Academy](http://safwahdev.vercel.app), and School Management System Web App
+*   🧠  I'm learning Core Java, Spring MVC, Spring Boot
 *   ⚡  I'm secretly a Frontend Engineer<a href="https://www.github.com/shuaibu222" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/shuaibu222?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
